@@ -53,6 +53,13 @@ I build things I actually want to exist.
 
 `Next.js 15` `Prisma` `SQLite` `Tailwind CSS` `OpenAI / Gemini / Claude`
 
+---
+
+**[claude-token-usage](https://github.com/taejunoh/claude-token-usage)** · *macOS Menu Bar App*
+> Monitor your Claude AI token usage in real-time from the menu bar. Session & weekly usage gauges, threshold alerts, and session reset notifications.
+
+`Swift` `SwiftUI` `AppKit` `macOS 14+`
+
 <br/>
 
 ## 🛠️ Tech Stack
