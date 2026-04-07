@@ -41,13 +41,6 @@ I build things I actually want to exist.
 
 ## 🗂️ Other Projects
 
-**[claude-lean](https://github.com/taejunoh/claude-lean)** · *Token Optimizer for Coding Agents*
-> Accurate token measurement, cost analysis, and auto-optimization for Claude Code sessions.
-
-`Python` `tiktoken` `Claude Code` `Cursor` `Gemini CLI`
-
----
-
 **[easy-job-application-tracker](https://github.com/taejunoh/easy-job-application-tracker)** · *Local-First Job Tracker*
 > Auto-extract job details from any URL via Chrome extension. Multi-LLM support for AI-powered extraction.
 
@@ -59,6 +52,13 @@ I build things I actually want to exist.
 > Monitor your Claude AI token usage in real-time from the menu bar. Session & weekly usage gauges, threshold alerts, and session reset notifications.
 
 `Swift` `SwiftUI` `AppKit` `macOS 14+`
+
+---
+
+**[claude-lean](https://github.com/taejunoh/claude-lean)** · *Token Optimizer for Coding Agents*
+> Accurate token measurement, cost analysis, and auto-optimization for Claude Code sessions.
+
+`Python` `tiktoken` `Claude Code` `Cursor` `Gemini CLI`
 
 <br/>
 
