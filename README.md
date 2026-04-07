@@ -6,7 +6,7 @@
 <br/>
 
 <!-- About -->
-I build things I actually want to exist.
+I build things I actually want to exist and use.
 
 **Kirok** — My alarm goes off at 4:20 a.m. I head to the gym at 5:00 a.m. I've tried countless fitness apps — some were really good — but none of them quite felt like mine. So I decided to build one myself, shaped by my own experience and feedback from friends who are just as passionate about workout.
 
