@@ -13,7 +13,7 @@ I'm a software engineer and entrepreneur based in New York City, building produc
 ## 🔨 Currently Building
 
 **[Mise](https://getmise.com)** · *Restaurant P&L Automation*
-> Connects Toast POS + MarginEdge to deliver automated daily P&L reports — so operators can focus on the food, not the spreadsheets.
+> Connects Toast POS + MarginEdge to deliver automated daily P&L reports — so operators can focus on the food, not the spreadsheets. Built with a General Manager at a top NYC restaurant — validated on real Toast + MarginEdge data from a live, high-volume operation.
 
 `Python` `FastAPI` `Next.js` `Supabase` `Docker`
 
