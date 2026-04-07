@@ -64,14 +64,6 @@ I'm a software engineer and entrepreneur based in New York City, building produc
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=taejunoh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=2D6A4F&fire=2D6A4F&currStreakLabel=2D6A4F&sideLabels=2D6A4F" />
-</div>
-
-<br/>
-
 ## 🌱 Interests
 
 - 📈 Financial markets — space tech, AI-driven biotech, semiconductors
