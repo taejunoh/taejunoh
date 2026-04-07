@@ -42,7 +42,7 @@ I build things I actually want to exist.
 ## 🗂️ Other Projects
 
 **[easy-job-application-tracker](https://github.com/taejunoh/easy-job-application-tracker)** · *Local-First Job Tracker*
-> Auto-extract job details from any URL via Chrome extension. Multi-LLM support for AI-powered extraction.
+> Auto-extract job details from any URL via Chrome extension. Auto-fills profile URLs on Greenhouse, Lever, and Workday forms. Multi-LLM support for AI-powered extraction.
 
 `Next.js 15` `Prisma` `SQLite` `Tailwind CSS` `OpenAI / Gemini / Claude`
 
