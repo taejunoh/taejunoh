@@ -19,14 +19,14 @@ I'm a software engineer and entrepreneur based in New York City, building produc
 
 ---
 
-**Kirok** · *Offline-First Workout Tracker*
+**[Kirok](https://kirok.io)** · *Offline-First Workout Tracker*
 > Built for intermediate to advanced lifters. PR detection, smart volume calculation, analytics dashboard, Apple Watch companion, and cloud sync — all offline-first.
 
 `React Native` `Expo` `TypeScript` `WatermelonDB` `Supabase` `SwiftUI`
 
 ---
 
-**[DoEveryday](https://github.com/taejunoh/DoEveryday)** · *Habit Tracking Web App*
+**[DoEveryday](https://doeveryday.app)** · *Habit Tracking Web App*
 > Log and visualise the things you do every day — workouts, reading, journaling, and whatever else matters to you.
 
 `React 18` `Vite` `Supabase` `Vercel`
