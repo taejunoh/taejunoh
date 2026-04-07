@@ -13,15 +13,33 @@ Currently focused on **[Mise](https://getmise.com)** — automating daily P&L re
 <br/>
 
 <!-- Current Work -->
-## 🍽️ What I'm Building
+## 🚀 Projects
 
-**Mise** · *Restaurant P&L Automation*
-> Connects Toast POS + MarginEdge to deliver automated daily profit & loss reports — so operators can focus on the food, not the spreadsheets.
+**[Mise](https://getmise.com)** · *Restaurant P&L Automation*
+> Connects Toast POS + MarginEdge to deliver automated daily P&L reports — so operators can focus on the food, not the spreadsheets.
 
-- `FastAPI` backend with scheduled reporting engine
-- `Next.js` dashboard for real-time cost visibility
-- `Supabase` for auth and data persistence
-- Targeting Toast Partner Marketplace for distribution
+`Python` `FastAPI` `Next.js` `Supabase` `Docker`
+
+---
+
+**[claude-lean](https://github.com/taejunoh/claude-lean)** · *Token Optimizer for Coding Agents*
+> Accurate token measurement, cost analysis, and auto-optimization for Claude Code sessions. Every turn replays your full config — claude-lean measures exactly what each component costs and trims the fat.
+
+`Python` `tiktoken` `Claude Code` `Cursor` `Gemini CLI`
+
+---
+
+**[easy-job-application-tracker](https://github.com/taejunoh/easy-job-application-tracker)** · *Local-First Job Tracker*
+> Paste a job URL or use the Chrome extension to auto-extract title, company, and description from LinkedIn, Indeed, and Glassdoor. Multi-LLM support for AI-powered extraction.
+
+`Next.js 15` `Prisma` `SQLite` `Tailwind CSS` `OpenAI / Gemini / Claude`
+
+---
+
+**[DoEveryday](https://github.com/taejunoh/DoEveryday)** · *Habit Tracking Web App*
+> Log and visualise the things you do every day — workouts, reading, journaling, and whatever else matters to you.
+
+`React 18` `Vite` `Supabase` `Vercel`
 
 <br/>
 
