@@ -41,6 +41,13 @@ Currently focused on **[Mise](https://getmise.com)** — automating daily P&L re
 
 `React 18` `Vite` `Supabase` `Vercel`
 
+---
+
+**Kirok** · *Offline-First Workout Tracker*
+> Built for intermediate to advanced lifters. PR detection, smart volume calculation, analytics dashboard, Apple Watch companion, and cloud sync — all offline-first.
+
+`React Native` `Expo` `TypeScript` `WatermelonDB` `Supabase` `SwiftUI`
+
 <br/>
 
 ## 🛠️ Tech Stack
