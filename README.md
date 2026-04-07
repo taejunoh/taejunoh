@@ -67,8 +67,7 @@ I'm a software engineer and entrepreneur based in New York City, building produc
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=taejunoh&show_icons=true&theme=default&hide_border=true&title_color=2D6A4F&icon_color=2D6A4F&text_color=333333&bg_color=ffffff" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taejunoh&layout=compact&hide_border=true&title_color=2D6A4F&text_color=333333&bg_color=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=taejunoh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=2D6A4F&fire=2D6A4F&currStreakLabel=2D6A4F&sideLabels=2D6A4F" />
 </div>
 
 <br/>
