@@ -1,19 +1,16 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=3000&pause=1000&color=2D6A4F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Taejun+Oh+%F0%9F%91%8B;Builder+%7C+Engineer+%7C+Founder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=3000&pause=1000&color=2D6A4F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Taejun+Oh+%F0%9F%91%8B;Building+Mise+%7C+Kirok+%7C+DoEveryday" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <!-- About -->
-I'm a software engineer and entrepreneur based in New York City, building tools that help restaurant operators run their businesses with less friction.
-
-Currently focused on **[Mise](https://getmise.com)** — automating daily P&L reporting for restaurants by connecting POS and food cost systems.
+I'm a software engineer and entrepreneur based in New York City, building products across restaurant tech, fitness, and personal productivity.
 
 <br/>
 
-<!-- Current Work -->
-## 🚀 Projects
+## 🔨 Currently Building
 
 **[Mise](https://getmise.com)** · *Restaurant P&L Automation*
 > Connects Toast POS + MarginEdge to deliver automated daily P&L reports — so operators can focus on the food, not the spreadsheets.
@@ -22,17 +19,10 @@ Currently focused on **[Mise](https://getmise.com)** — automating daily P&L re
 
 ---
 
-**[claude-lean](https://github.com/taejunoh/claude-lean)** · *Token Optimizer for Coding Agents*
-> Accurate token measurement, cost analysis, and auto-optimization for Claude Code sessions. Every turn replays your full config — claude-lean measures exactly what each component costs and trims the fat.
+**Kirok** · *Offline-First Workout Tracker*
+> Built for intermediate to advanced lifters. PR detection, smart volume calculation, analytics dashboard, Apple Watch companion, and cloud sync — all offline-first.
 
-`Python` `tiktoken` `Claude Code` `Cursor` `Gemini CLI`
-
----
-
-**[easy-job-application-tracker](https://github.com/taejunoh/easy-job-application-tracker)** · *Local-First Job Tracker*
-> Paste a job URL or use the Chrome extension to auto-extract title, company, and description from LinkedIn, Indeed, and Glassdoor. Multi-LLM support for AI-powered extraction.
-
-`Next.js 15` `Prisma` `SQLite` `Tailwind CSS` `OpenAI / Gemini / Claude`
+`React Native` `Expo` `TypeScript` `WatermelonDB` `Supabase` `SwiftUI`
 
 ---
 
@@ -41,28 +31,33 @@ Currently focused on **[Mise](https://getmise.com)** — automating daily P&L re
 
 `React 18` `Vite` `Supabase` `Vercel`
 
+<br/>
+
+## 🗂️ Other Projects
+
+**[claude-lean](https://github.com/taejunoh/claude-lean)** · *Token Optimizer for Coding Agents*
+> Accurate token measurement, cost analysis, and auto-optimization for Claude Code sessions.
+
+`Python` `tiktoken` `Claude Code` `Cursor` `Gemini CLI`
+
 ---
 
-**Kirok** · *Offline-First Workout Tracker*
-> Built for intermediate to advanced lifters. PR detection, smart volume calculation, analytics dashboard, Apple Watch companion, and cloud sync — all offline-first.
+**[easy-job-application-tracker](https://github.com/taejunoh/easy-job-application-tracker)** · *Local-First Job Tracker*
+> Auto-extract job details from any URL via Chrome extension. Multi-LLM support for AI-powered extraction.
 
-`React Native` `Expo` `TypeScript` `WatermelonDB` `Supabase` `SwiftUI`
+`Next.js 15` `Prisma` `SQLite` `Tailwind CSS` `OpenAI / Gemini / Claude`
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-<!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-<!-- Frameworks -->
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-<!-- Infra -->
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -82,7 +77,7 @@ Currently focused on **[Mise](https://getmise.com)** — automating daily P&L re
 
 - 📈 Financial markets — space tech, AI-driven biotech, semiconductors
 - 🤖 Machine learning fundamentals
-- 🎮 Retro strategy games (Romance of the Three Kingdoms VI, 삼국지6)
+- 🏋️ Fitness & strength training
 - 🏙️ New York City food & restaurant culture
 
 <br/>
