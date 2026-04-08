@@ -32,17 +32,11 @@ I build things I actually want to exist.
 
 ---
 
-**[DoEveryday](https://doeveryday.app)** · *Habit Tracking Web App*
+**[DoEveryday](https://doeveryday.app)** · *Habit Tracking App (Web + Mobile)*
 > Log and visualise the things you do every day — workouts, reading, journaling, and whatever else matters to you. Supports EN/KO.
 
-`React 18` `Vite` `Supabase` `Stripe` `Resend` `Vercel`
-
----
-
-**DoEveryday Native** · *Mobile Habit Tracker*
-> React Native companion to DoEveryday. Habit tracking with streak logic, 7-day grid view, flexible frequency modes, and Pro tier. Supports EN/KR.
-
-`React Native` `Expo` `TypeScript` `Zustand` `Supabase` `Expo Router`
+Web: `React 18` `Vite` `Supabase` `Stripe` `Resend` `Vercel`
+Mobile: `React Native` `Expo` `TypeScript` `Zustand` `Supabase` `Expo Router`
 
 <br/>
 
