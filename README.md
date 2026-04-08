@@ -37,6 +37,13 @@ I build things I actually want to exist.
 
 `React 18` `Vite` `Supabase` `Stripe` `Resend` `Vercel`
 
+---
+
+**DoEveryday Native** · *Mobile Habit Tracker*
+> React Native companion to DoEveryday. Habit tracking with streak logic, 7-day grid view, flexible frequency modes, and Pro tier. Supports EN/KR.
+
+`React Native` `Expo` `TypeScript` `Zustand` `Supabase` `Expo Router`
+
 <br/>
 
 ## 🗂️ Other Projects
@@ -49,7 +56,7 @@ I build things I actually want to exist.
 ---
 
 **[claude-token-usage](https://github.com/taejunoh/claude-token-usage)** · *macOS Menu Bar App*
-> Monitor your Claude AI token usage in real-time from the menu bar. Session & weekly usage gauges, threshold alerts, and session reset notifications.
+> Monitor your Claude AI token usage in real-time from the menu bar. Session & weekly usage gauges, threshold alerts, session reset notifications, and secure credential storage via macOS Keychain.
 
 `Swift` `SwiftUI` `AppKit` `macOS 14+`
 
