@@ -49,8 +49,8 @@ Mobile: `React Native` `Expo` `TypeScript` `Zustand` `Supabase` `Expo Router`
 
 ---
 
-**[claude-token-usage](https://github.com/taejunoh/claude-token-usage/releases/latest/download/ClaudeTokenUsage.zip)** · *macOS Menu Bar App*
-> Monitor your Claude AI token usage in real-time from the menu bar. Session & weekly usage gauges, threshold alerts, session reset notifications, and secure credential storage via macOS Keychain. No Xcode needed — just unzip and run.
+**[claude-token-usage](https://taejunoh.com/ClaudeTokenUsage/)** · *macOS Menu Bar App*
+> Monitor your Claude AI token usage in real-time from the menu bar. Session & weekly usage gauges, threshold alerts, session reset notifications, and secure credential storage via macOS Keychain. Verified by Apple — just unzip and run.
 
 `Swift` `SwiftUI` `AppKit` `macOS 14+`
 
