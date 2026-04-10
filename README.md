@@ -42,10 +42,10 @@ Mobile: `React Native` `Expo` `TypeScript` `Zustand` `Supabase` `Expo Router`
 
 ## 🗂️ Other Projects
 
-**[easy-job-application-tracker](https://github.com/taejunoh/easy-job-application-tracker)** · *Local-First Job Tracker*
-> Auto-extract job details from any URL via Chrome extension. Auto-fills profile URLs on Greenhouse, Lever, and Workday forms. Multi-LLM support for AI-powered extraction.
+**[easy-job-application-tracker](https://easy-job-application-tracker.vercel.app)** · *Job Application Tracker*
+> Save jobs directly from LinkedIn, Indeed, Glassdoor, and any career page via Chrome extension. Keyword match analysis against your resume, auto-fill for Greenhouse, Lever, and Workday forms, and multi-LLM support for AI-powered extraction.
 
-`Next.js 15` `Prisma` `SQLite` `Tailwind CSS` `OpenAI / Gemini / Claude`
+`Next.js 15` `Prisma` `PostgreSQL` `Tailwind CSS` `OpenAI / Gemini / Claude`
 
 ---
 
