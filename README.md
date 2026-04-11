@@ -32,7 +32,7 @@ I build things I actually want to exist.
 
 ---
 
-**[DoEveryday](https://doeveryday.app)** · *Habit Tracking App (Web + Mobile)*
+**[DoEveryday](https://doeveryday.app)** · *Habit Tracking App (Web + Chrome Extension + Mobile)*
 > Log and visualise the things you do every day — workouts, reading, journaling, and whatever else matters to you. Community challenges, web push reminders, Stripe subscriptions, PWA support, and EN/KO localization.
 
 Web: `React 18` `Vite` `Supabase` `Supabase Edge Functions` `Stripe` `Resend` `Vercel`
