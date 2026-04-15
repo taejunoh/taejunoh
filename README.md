@@ -42,17 +42,17 @@ Mobile: `React Native` `Expo` `TypeScript` `Zustand` `Supabase` `Expo Router`
 
 ## 🗂️ Other Projects
 
-**[easy-job-application-tracker](https://github.com/taejunoh/easy-job-application-tracker)** · *Job Application Tracker*
-> Save jobs directly from LinkedIn, Indeed, Glassdoor, and any career page via Chrome extension. Keyword match analysis against your resume, auto-fill for Greenhouse, Lever, and Workday forms, and multi-LLM support for AI-powered extraction.
-
-`Next.js 15` `Prisma` `PostgreSQL` `Tailwind CSS` `OpenAI / Gemini / Claude`
-
----
-
 **[ClaudeBeat](https://claudebeat.com)** · *macOS Menu Bar App*
 > Monitor your Claude AI token usage in real-time from the menu bar. Session & weekly usage gauges, threshold alerts, session reset notifications, and secure credential storage via macOS Keychain. Verified by Apple — install via Homebrew or just unzip and run.
 
 `Swift` `SwiftUI` `AppKit` `macOS 14+`
+
+---
+
+**[easy-job-application-tracker](https://github.com/taejunoh/easy-job-application-tracker)** · *Job Application Tracker*
+> Save jobs directly from LinkedIn, Indeed, Glassdoor, and any career page via Chrome extension. Keyword match analysis against your resume, auto-fill for Greenhouse, Lever, and Workday forms, and multi-LLM support for AI-powered extraction.
+
+`Next.js 15` `Prisma` `PostgreSQL` `Tailwind CSS` `OpenAI / Gemini / Claude`
 
 ---
 
