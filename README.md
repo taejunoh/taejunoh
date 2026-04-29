@@ -21,7 +21,14 @@ I build things I actually want to exist.
 **[Mise](https://getmise.com)** · *Restaurant P&L Automation*
 > Connects Toast POS + MarginEdge to deliver automated daily P&L reports — so operators can focus on the food, not the spreadsheets. Built with a General Manager at a top NYC restaurant — validated on real Toast + MarginEdge data from a live, high-volume operation.
 
-`Python` `FastAPI` `Next.js` `Supabase` `Docker`
+`Python` `FastAPI` `React` `Next.js` `Supabase` `Docker` `AWS`
+
+---
+
+**[SpotTrove](https://spottrove.com)** · *Street Parking + Garage Map*
+> Street parking legality and garage pricing, on one map. Launching in NYC — built on 320K parsed signs, 635K legality rules, and 1,719 indexed garages. Same engine generalizes to every U.S. city with open sign data.
+
+`FastAPI` `Supabase` `PostgreSQL` `PostGIS` `React Native` `Expo` `Next.js` `TypeScript`
 
 ---
 
