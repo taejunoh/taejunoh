@@ -8,11 +8,13 @@
 <!-- About -->
 I build things I actually want to exist.
 
+**Mise (pseudonym)** — A friend with 10 years in the hospitality industry shared a problem he'd been sitting with for a long time. So we decided to build something about it together.
+
+**SpotTrove** — I don't drive, but I kept hearing the same frustration from friends who do — finding parking in NYC is a headache. Street parking especially: you have to read every sign just to know if you're allowed to stop. I built SpotTrove so that information is on a map, not on a pole.
+
 **Kirok** — My alarm goes off at 4:20 a.m. I head to the gym at 5:00 a.m. I've tried countless fitness apps — some were really good — but none of them quite felt like mine. So I decided to build one myself, shaped by my own experience and feedback from friends who are just as passionate about workout.
 
 **DoEveryday** — I like having a routine. I wanted a simple place to log mine, and I was curious what other people are quietly and consistently doing every day. I built this hoping it would encourage anyone trying to turn even the smallest habits into something that sticks.
-
-**Mise (pseudonym)** — A friend with 10 years in the hospitality industry shared a problem he'd been sitting with for a long time. So we decided to build something about it together.
 
 <br/>
 
