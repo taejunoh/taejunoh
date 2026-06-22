@@ -47,6 +47,13 @@ I build things I actually want to exist.
 Web: `React 18` `Vite` `Supabase` `Supabase Edge Functions` `Stripe` `Resend` `Vercel`
 Mobile: `React Native` `Expo` `TypeScript` `Zustand` `Supabase` `Expo Router`
 
+---
+
+**[TypeLeague](https://typeleague.gg)** · *Competitive Typing Leaderboards*
+> One typing test feeds many leaderboards: every result ranks you globally and across your country, city, school, and company. Verified school and company affiliations via email OTP, team scoring built on top verified members, weekly seasons, server-side anti-cheat, and auto-generated share cards for X / LinkedIn / Reddit / Discord. Multi-language practice including Korean (IME-aware).
+
+`Next.js 14` `TypeScript` `Tailwind CSS` `FastAPI` `PostgreSQL` `Redis` `Clerk` `Vercel` `Railway`
+
 <br/>
 
 ## 🗂️ Other Projects
