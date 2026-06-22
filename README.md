@@ -16,6 +16,8 @@ I build things I actually want to exist.
 
 **DoEveryday** — I like having a routine. I wanted a simple place to log mine, and I was curious what other people are quietly and consistently doing every day. I built this hoping it would encourage anyone trying to turn even the smallest habits into something that sticks.
 
+**TypeLeague** — A typing test usually answers one question: how fast can I type? I wanted it to answer a few more, like how fast my school, my company, my city, and my country are. So I built a place where a single test feeds all of those leaderboards at once, with verified teams and weekly seasons to keep the rankings honest. Solo practice, turned into something social.
+
 <br/>
 
 ## 🔨 Currently Building
