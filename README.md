@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=3000&pause=1000&color=2D6A4F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Taejun+Oh+%F0%9F%91%8B;Building+Mise+%7C+Kirok+%7C+DoEveryday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=3000&pause=1000&color=2D6A4F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Taejun+Oh+%F0%9F%91%8B;Building+Mise+%7C+GoLightWeight+%7C+DoEveryday" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -12,7 +12,7 @@ I build things I actually want to exist.
 
 **SpotTrove** — I don't drive, but I kept hearing the same frustration from friends who do — finding parking in NYC is a headache. Street parking especially: you have to read every sign just to know if you're allowed to stop. I built SpotTrove so that information is on a map, not on a pole.
 
-**Kirok** — My alarm goes off at 4:20 a.m. I head to the gym at 5:00 a.m. I've tried countless fitness apps — some were really good — but none of them quite felt like mine. So I decided to build one myself, shaped by my own experience and feedback from friends who are just as passionate about workout.
+**GoLightWeight** — My alarm goes off at 4:20 a.m. I head to the gym at 5:00 a.m. I've tried countless fitness apps — some were really good — but none of them quite felt like mine. So I decided to build one myself, shaped by my own experience and feedback from friends who are just as passionate about workout.
 
 **DoEveryday** — I like having a routine. I wanted a simple place to log mine, and I was curious what other people are quietly and consistently doing every day. I built this hoping it would encourage anyone trying to turn even the smallest habits into something that sticks.
 
@@ -36,7 +36,7 @@ I build things I actually want to exist.
 
 ---
 
-**[Kirok](https://kirok.io)** · *Offline-First Workout Tracker*
+**[GoLightWeight](https://GoLightWeight.io)** · *Offline-First Workout Tracker*
 > Built for intermediate to advanced lifters. PR detection, smart volume calculation, analytics dashboard, Apple Watch companion, and cloud sync — all offline-first. Supports EN/KR.
 
 `React Native` `Expo` `TypeScript` `WatermelonDB` `Supabase` `SwiftUI` `Next.js` `Tailwind CSS`
