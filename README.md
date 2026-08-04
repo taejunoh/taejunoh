@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=3000&pause=1000&color=2D6A4F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Taejun+Oh+%F0%9F%91%8B;Building+Mise+%7C+GoLightWeight+%7C+DoEveryday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=3000&pause=1000&color=2D6A4F&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Taejun+Oh+%F0%9F%91%8B;Building+Mise+%7C+SpotTrove;Building+GoLightWeight+%7C+DoEveryday;Building+TypeLeague+%7C+Great+Whiskey+Narrative" alt="Typing SVG" />
 </div>
 
 <br/>
