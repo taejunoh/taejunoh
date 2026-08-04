@@ -18,6 +18,8 @@ I build things I actually want to exist.
 
 **TypeLeague** — A typing test usually answers one question: how fast can I type? I wanted it to answer a few more, like how fast my school, my company, my city, and my country are. So I built a place where a single test feeds all of those leaderboards at once, with verified teams and weekly seasons to keep the rankings honest. Solo practice, turned into something social.
 
+**Great Whiskey Narrative** — I like whiskey, but a shelf of unfamiliar labels tells you almost nothing: how it tastes, where it came from, whether the price is fair. I wanted those answers before buying the bottle, not after. So I built something that reads the label for you — and keeps a record of what you have already poured.
+
 <br/>
 
 ## 🔨 Currently Building
@@ -30,7 +32,7 @@ I build things I actually want to exist.
 ---
 
 **[SpotTrove](https://spottrove.com)** · *Street Parking + Garage Map*
-> Street parking legality and garage pricing, on one map. Launching in NYC — built on 320K parsed signs, 635K legality rules, and 1,719 indexed garages. Same engine generalizes to every U.S. city with open sign data.
+> Street parking legality and garage pricing, on one map. Live in NYC on the [App Store](https://apps.apple.com/app/spottrove/id6764669814) — built on 320K parsed signs, 635K legality rules, and 1,836 indexed garages. The map opens without an account; sign-in is asked for at the point of use. Same engine generalizes to every U.S. city with open sign data.
 
 `FastAPI` `Supabase` `PostgreSQL` `PostGIS` `React Native` `Expo` `Next.js` `TypeScript`
 
@@ -44,7 +46,7 @@ I build things I actually want to exist.
 ---
 
 **[DoEveryday](https://doeveryday.app)** · *Habit Tracking App (Web + iOS + Browser Extension)*
-> Log and visualise the things you do every day — workouts, reading, journaling, and whatever else matters to you. Year heatmap view, community challenges, web push reminders, Stripe subscriptions, PWA support, and EN/KO localization. iOS app live on the [App Store](https://apps.apple.com/app/id6762887548).
+> Log and visualise the things you do every day — workouts, reading, journaling, and whatever else matters to you. Year heatmap view, community challenges, web push reminders, Stripe subscriptions, PWA support, and EN/KO localization. iOS app live on the [App Store](https://apps.apple.com/app/id6762887548), with a tap-to-check-in home-screen widget. Browser extension on [Chrome](https://chromewebstore.google.com/detail/doeveryday-%E2%80%94-build-habits/lfnjhojafagecmadibalpecnfhlobkkp), [Edge](https://microsoftedge.microsoft.com/addons/detail/doeveryday-%E2%80%94-build-habits/gfanlklnofdjgkmgjbjjmhoclekiachh), and [Firefox](https://addons.mozilla.org/firefox/addon/doeveryday-habit-tracker/).
 
 Web: `React 18` `Vite` `Supabase` `Supabase Edge Functions` `Stripe` `Resend` `Vercel`
 Mobile: `React Native` `Expo` `TypeScript` `Zustand` `Supabase` `Expo Router`
@@ -55,6 +57,13 @@ Mobile: `React Native` `Expo` `TypeScript` `Zustand` `Supabase` `Expo Router`
 > One typing test feeds many leaderboards: every result ranks you globally and across your country, city, school, and company. Verified school and company affiliations via email OTP, team scoring built on top verified members, weekly seasons, server-side anti-cheat, and auto-generated share cards for X / LinkedIn / Reddit / Discord. Multi-language practice including Korean (IME-aware).
 
 `Next.js 14` `TypeScript` `Tailwind CSS` `FastAPI` `PostgreSQL` `Redis` `Clerk` `Vercel` `Railway`
+
+---
+
+**[Great Whiskey Narrative](https://greatwhiskeynarrative.com)** · *Whisky Label Scanner + Library*
+> Point a camera at a label and get the distillery, region, tasting notes, and typical price. A 370-bottle library with food pairings, a Whisky 101 guide, and tasting tracks that turn your shelf into a collection worth filling. Your collection never leaves the browser — no accounts, and moving between devices uses a link that carries the data in the URL fragment. Web live; iOS app in build.
+
+`Astro` `React` `TypeScript` `Expo` `React Native` `Railway` `GitHub Pages`
 
 <br/>
 
@@ -71,13 +80,6 @@ Mobile: `React Native` `Expo` `TypeScript` `Zustand` `Supabase` `Expo Router`
 > Save jobs directly from LinkedIn, Indeed, Glassdoor, and any career page via Chrome extension. Keyword match analysis against your resume, auto-fill for Greenhouse, Lever, and Workday forms, and multi-LLM support for AI-powered extraction.
 
 `Next.js 15` `Prisma` `PostgreSQL` `Tailwind CSS` `OpenAI / Gemini / Claude`
-
----
-
-**[claude-lean](https://github.com/taejunoh/claude-lean)** · *Token Optimizer for Coding Agents*
-> Accurate token measurement, cost analysis, and auto-optimization for Claude Code sessions.
-
-`Python` `tiktoken` `Claude Code` `Cursor` `Gemini CLI`
 
 <br/>
 
