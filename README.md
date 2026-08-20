@@ -32,7 +32,7 @@ I build things I actually want to exist.
 ---
 
 **[SpotTrove](https://spottrove.com)** · *Street Parking + Garage Map*
-> Street parking legality and garage pricing, on one map. Live in NYC on the [App Store](https://apps.apple.com/app/spottrove/id6764669814) — built on 320K parsed signs, 635K legality rules, and 1,836 indexed garages. The map opens without an account; sign-in is asked for at the point of use. Same engine generalizes to every U.S. city with open sign data.
+> Street parking legality, live street-meter prices, and garage pricing, on one map. Live in NYC on the [App Store](https://apps.apple.com/app/spottrove/id6764669814) — built on 79,650 sign-parsed block faces, 561,642 legality rules, 10,955 metered block faces with posted rates, and 1,837 indexed garages. The map opens without an account; sign-in is asked for at the point of use. Same engine generalizes to every U.S. city with open sign data.
 
 `FastAPI` `Supabase` `PostgreSQL` `PostGIS` `React Native` `Expo` `Next.js` `TypeScript`
 
@@ -46,7 +46,7 @@ I build things I actually want to exist.
 ---
 
 **[DoEveryday](https://doeveryday.app)** · *Habit Tracking App (Web + iOS + Browser Extension)*
-> Log and visualise the things you do every day — workouts, reading, journaling, and whatever else matters to you. Year heatmap view, community challenges, web push reminders, Stripe subscriptions, PWA support, and EN/KO localization. iOS app live on the [App Store](https://apps.apple.com/app/id6762887548), with a tap-to-check-in home-screen widget. Browser extension on [Chrome](https://chromewebstore.google.com/detail/doeveryday-%E2%80%94-build-habits/lfnjhojafagecmadibalpecnfhlobkkp), [Edge](https://microsoftedge.microsoft.com/addons/detail/doeveryday-%E2%80%94-build-habits/gfanlklnofdjgkmgjbjjmhoclekiachh), and [Firefox](https://addons.mozilla.org/firefox/addon/doeveryday-habit-tracker/).
+> Log and visualise the things you do every day — workouts, reading, journaling, and whatever else matters to you. Year heatmap view, community challenges, web push reminders, Stripe subscriptions, PWA support, and EN/KO localization. iOS app live on the [App Store](https://apps.apple.com/app/id6762887548), with a tap-to-check-in home-screen widget; Android in closed testing on Google Play. Browser extension on [Chrome](https://chromewebstore.google.com/detail/doeveryday-%E2%80%94-build-habits/lfnjhojafagecmadibalpecnfhlobkkp), [Edge](https://microsoftedge.microsoft.com/addons/detail/doeveryday-%E2%80%94-build-habits/gfanlklnofdjgkmgjbjjmhoclekiachh), and [Firefox](https://addons.mozilla.org/firefox/addon/doeveryday-habit-tracker/).
 
 Web: `React 18` `Vite` `Supabase` `Supabase Edge Functions` `Stripe` `Resend` `Vercel`
 Mobile: `React Native` `Expo` `TypeScript` `Zustand` `Supabase` `Expo Router`
