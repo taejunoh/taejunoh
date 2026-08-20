@@ -39,7 +39,7 @@ I build things I actually want to exist.
 ---
 
 **[GoLightWeight](https://GoLightWeight.io)** · *Offline-First Workout Tracker*
-> Built for intermediate to advanced lifters. PR detection, smart volume calculation, analytics dashboard, Apple Watch companion, and cloud sync — all offline-first. Supports EN/KR.
+> Built for intermediate to advanced lifters. PR detection, smart volume calculation, analytics dashboard, Apple Watch companion, and cloud sync — all offline-first. Supports EN/KR. iOS live on the [App Store](https://apps.apple.com/app/id6781628893); Android in closed testing on Google Play.
 
 `React Native` `Expo` `TypeScript` `WatermelonDB` `Supabase` `SwiftUI` `Next.js` `Tailwind CSS`
 
