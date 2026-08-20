@@ -63,7 +63,7 @@ Mobile: `React Native` `Expo` `TypeScript` `Zustand` `Supabase` `Expo Router`
 **[Mise](https://getmise.com)** · *Restaurant P&L Automation*
 > Connects Toast POS + MarginEdge to deliver automated daily P&L reports — so operators can focus on the food, not the spreadsheets. Built with a General Manager at a top NYC restaurant — validated on real Toast + MarginEdge data from a live, high-volume operation.
 
-`Python` `FastAPI` `React` `Next.js` `Supabase` `Docker` `AWS`
+`Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Next.js` `React` `Tailwind CSS` `Railway`
 
 <br/>
 
