@@ -70,16 +70,32 @@ Mobile: `React Native` `Expo` `TypeScript` `Zustand` `Supabase` `Expo Router`
 ## 🗂️ Other Projects
 
 **[ClaudeBeat](https://claudebeat.com)** · *macOS Menu Bar App*
-> Monitor your Claude AI token usage in real-time from the menu bar. Session & weekly usage gauges, threshold alerts, session reset notifications, and secure credential storage via macOS Keychain. Verified by Apple — install via Homebrew or just unzip and run.
+> Monitor your Claude AI token usage in real-time from the menu bar. Session, weekly, and per-model gauges plus Extra Usage credits, threshold alerts, session reset notifications, and in-app sign-in with the session stored in the macOS Keychain. Verified by Apple — install via Homebrew or just unzip and run.
 
 `Swift` `SwiftUI` `AppKit` `macOS 14+`
 
 ---
 
 **[easy-job-application-tracker](https://github.com/taejunoh/easy-job-application-tracker)** · *Job Application Tracker*
-> Save jobs directly from LinkedIn, Indeed, Glassdoor, and any career page via Chrome extension. Keyword match analysis against your resume, auto-fill for Greenhouse, Lever, and Workday forms, and multi-LLM support for AI-powered extraction.
+> Self-hosted job application tracker with a Chrome extension. Save jobs from LinkedIn, Indeed, Glassdoor, Lever, Greenhouse, and Workday; compare postings against your resume for matched and missing keywords; fill saved profile URLs into application forms. Optional AI-assisted extraction.
 
-`Next.js 15` `Prisma` `PostgreSQL` `Tailwind CSS` `OpenAI / Gemini / Claude`
+`Next.js 16` `React 19` `Prisma` `PostgreSQL` `Tailwind CSS` `Claude / GPT / Gemini (optional)`
+
+---
+
+**[Needlbar](https://github.com/taejunoh/needlbar)** · *AI Coding Usage Monitor for macOS*
+> Native menu-bar monitor for Claude Code, Codex, and Cursor — locally aggregated token usage and estimated cost next to provider quota and reset windows. Local-first: no account, no backend, no telemetry. v0.1 builds from source; notarized release on the way.
+
+`Swift` `SwiftUI` `Rust` `macOS 14+` `Apple Silicon`
+
+<br/>
+
+## 🎮 Game
+
+**[sam6pk-mac](https://github.com/taejunoh/sam6pk-mac)** · *Romance of the Three Kingdoms VI PK on macOS*
+> Runs the Korean release of RTK VI Power-Up Kit on modern Macs — a Wine-based setup that fixes broken Hangul rendering and the mid-battle freeze, with a one-click desktop launcher. Ships the environment only; bring your own game files.
+
+`Wine` `Shell` `macOS`
 
 <br/>
 
