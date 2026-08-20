@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=3000&pause=1000&color=2D6A4F&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Taejun+Oh+%F0%9F%91%8B;Building+Mise+%7C+SpotTrove;Building+GoLightWeight+%7C+DoEveryday;Building+TypeLeague+%7C+Great+Whiskey+Narrative" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=3000&pause=1000&color=2D6A4F&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Taejun+Oh+%F0%9F%91%8B;Building+GoLightWeight+%7C+SpotTrove;Building+DoEveryday+%7C+Great+Whiskey+Narrative;Building+TypeLeague+%7C+Mise" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -8,26 +8,26 @@
 <!-- About -->
 I build things I actually want to exist.
 
-**Mise (pseudonym)** — A friend with 10 years in the hospitality industry shared a problem he'd been sitting with for a long time. So we decided to build something about it together.
+**GoLightWeight** — My alarm goes off at 4:20 a.m. I head to the gym at 5:00 a.m. I've tried countless fitness apps — some were really good — but none of them quite felt like mine. So I decided to build one myself, shaped by my own experience and feedback from friends who are just as passionate about workout.
 
 **SpotTrove** — I don't drive, but I kept hearing the same frustration from friends who do — finding parking in NYC is a headache. Street parking especially: you have to read every sign just to know if you're allowed to stop. I built SpotTrove so that information is on a map, not on a pole.
 
-**GoLightWeight** — My alarm goes off at 4:20 a.m. I head to the gym at 5:00 a.m. I've tried countless fitness apps — some were really good — but none of them quite felt like mine. So I decided to build one myself, shaped by my own experience and feedback from friends who are just as passionate about workout.
-
 **DoEveryday** — I like having a routine. I wanted a simple place to log mine, and I was curious what other people are quietly and consistently doing every day. I built this hoping it would encourage anyone trying to turn even the smallest habits into something that sticks.
+
+**Great Whiskey Narrative** — I like whiskey, but a shelf of unfamiliar labels tells you almost nothing: how it tastes, where it came from, whether the price is fair. I wanted those answers before buying the bottle, not after. So I built something that reads the label for you — and keeps a record of what you have already poured.
 
 **TypeLeague** — A typing test usually answers one question: how fast can I type? I wanted it to answer a few more, like how fast my school, my company, my city, and my country are. So I built a place where a single test feeds all of those leaderboards at once, with verified teams and weekly seasons to keep the rankings honest. Solo practice, turned into something social.
 
-**Great Whiskey Narrative** — I like whiskey, but a shelf of unfamiliar labels tells you almost nothing: how it tastes, where it came from, whether the price is fair. I wanted those answers before buying the bottle, not after. So I built something that reads the label for you — and keeps a record of what you have already poured.
+**Mise (pseudonym)** — A friend with 10 years in the hospitality industry shared a problem he'd been sitting with for a long time. So we decided to build something about it together.
 
 <br/>
 
 ## 🔨 Currently Building
 
-**[Mise](https://getmise.com)** · *Restaurant P&L Automation*
-> Connects Toast POS + MarginEdge to deliver automated daily P&L reports — so operators can focus on the food, not the spreadsheets. Built with a General Manager at a top NYC restaurant — validated on real Toast + MarginEdge data from a live, high-volume operation.
+**[GoLightWeight](https://GoLightWeight.io)** · *Offline-First Workout Tracker*
+> Built for intermediate to advanced lifters. PR detection, smart volume calculation, analytics dashboard, Apple Watch companion, and cloud sync — all offline-first. Supports EN/KR. iOS live on the [App Store](https://apps.apple.com/app/id6781628893); Android in closed testing on Google Play.
 
-`Python` `FastAPI` `React` `Next.js` `Supabase` `Docker` `AWS`
+`React Native` `Expo` `TypeScript` `WatermelonDB` `Supabase` `SwiftUI` `Next.js` `Tailwind CSS`
 
 ---
 
@@ -35,13 +35,6 @@ I build things I actually want to exist.
 > Street parking legality, live street-meter prices, and garage pricing, on one map. Live in NYC on the [App Store](https://apps.apple.com/app/spottrove/id6764669814) — built on 79,650 sign-parsed block faces, 561,642 legality rules, 10,955 metered block faces with posted rates, and 1,837 indexed garages. The map opens without an account; sign-in is asked for at the point of use. Same engine generalizes to every U.S. city with open sign data.
 
 `FastAPI` `Supabase` `PostgreSQL` `PostGIS` `React Native` `Expo` `Next.js` `TypeScript`
-
----
-
-**[GoLightWeight](https://GoLightWeight.io)** · *Offline-First Workout Tracker*
-> Built for intermediate to advanced lifters. PR detection, smart volume calculation, analytics dashboard, Apple Watch companion, and cloud sync — all offline-first. Supports EN/KR. iOS live on the [App Store](https://apps.apple.com/app/id6781628893); Android in closed testing on Google Play.
-
-`React Native` `Expo` `TypeScript` `WatermelonDB` `Supabase` `SwiftUI` `Next.js` `Tailwind CSS`
 
 ---
 
@@ -53,6 +46,13 @@ Mobile: `React Native` `Expo` `TypeScript` `Zustand` `Supabase` `Expo Router`
 
 ---
 
+**[Great Whiskey Narrative](https://greatwhiskeynarrative.com)** · *Whisky Label Scanner + Library*
+> Point a camera at a label and get the distillery, region, tasting notes, and typical price. A 370-bottle library with food pairings, a Whisky 101 guide, and tasting tracks that turn your shelf into a collection worth filling. Your collection never leaves the browser — no accounts, and moving between devices uses a link that carries the data in the URL fragment. Web live; iOS app in build.
+
+`Astro` `React` `TypeScript` `Expo` `React Native` `Railway` `GitHub Pages`
+
+---
+
 **[TypeLeague](https://typeleague.gg)** · *Competitive Typing Leaderboards*
 > One typing test feeds many leaderboards: every result ranks you globally and across your country, city, school, and company. Verified school and company affiliations via email OTP, team scoring built on top verified members, weekly seasons, server-side anti-cheat, and auto-generated share cards for X / LinkedIn / Reddit / Discord. Multi-language practice including Korean (IME-aware).
 
@@ -60,10 +60,10 @@ Mobile: `React Native` `Expo` `TypeScript` `Zustand` `Supabase` `Expo Router`
 
 ---
 
-**[Great Whiskey Narrative](https://greatwhiskeynarrative.com)** · *Whisky Label Scanner + Library*
-> Point a camera at a label and get the distillery, region, tasting notes, and typical price. A 370-bottle library with food pairings, a Whisky 101 guide, and tasting tracks that turn your shelf into a collection worth filling. Your collection never leaves the browser — no accounts, and moving between devices uses a link that carries the data in the URL fragment. Web live; iOS app in build.
+**[Mise](https://getmise.com)** · *Restaurant P&L Automation*
+> Connects Toast POS + MarginEdge to deliver automated daily P&L reports — so operators can focus on the food, not the spreadsheets. Built with a General Manager at a top NYC restaurant — validated on real Toast + MarginEdge data from a live, high-volume operation.
 
-`Astro` `React` `TypeScript` `Expo` `React Native` `Railway` `GitHub Pages`
+`Python` `FastAPI` `React` `Next.js` `Supabase` `Docker` `AWS`
 
 <br/>
 
