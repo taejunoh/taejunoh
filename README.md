@@ -1,99 +1,100 @@
-<!-- Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=3000&pause=1000&color=2D6A4F&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Taejun+Oh+%F0%9F%91%8B;Building+GoLightWeight+%7C+SpotTrove;Building+DoEveryday+%7C+Great+Whiskey+Narrative;Building+TypeLeague+%7C+Mise" alt="Typing SVG" />
-</div>
+# Hi, I'm Taejun Oh 👋
+
+Software engineer in New York. I build things I actually want to exist.
+
+Three iOS apps on the App Store, one of them also on Google Play and in four browser extension stores, two notarized macOS menu-bar apps, and one trading system I shut down on purpose and wrote up.
 
 <br/>
 
-<!-- About -->
-I build things I actually want to exist.
+## 🚀 Shipped
 
-**GoLightWeight** — My alarm goes off at 4:20 a.m. I head to the gym at 5:00 a.m. I've tried countless fitness apps — some were really good — but none of them quite felt like mine. So I decided to build one myself, shaped by my own experience and feedback from friends who are just as passionate about workout.
+**[GoLightWeight](https://golightweight.app)** · *Offline-first workout tracker*
+> My alarm goes off at 4:20 a.m. and I am at the gym by 5:00. I tried a lot of fitness apps and none of them felt like mine, so I built one for intermediate to advanced lifters: 449 exercises (269 illustrated, 211 animated), 23 programs, PR detection, analytics, an Apple Watch companion, Apple Health, and cloud sync that works offline first. English and Korean. iOS is on the [App Store](https://apps.apple.com/app/id6781628893); Android is in closed testing on Google Play.
 
-**SpotTrove** — I don't drive, but I kept hearing the same frustration from friends who do — finding parking in NYC is a headache. Street parking especially: you have to read every sign just to know if you're allowed to stop. I built SpotTrove so that information is on a map, not on a pole.
-
-**DoEveryday** — I like having a routine. I wanted a simple place to log mine, and I was curious what other people are quietly and consistently doing every day. I built this hoping it would encourage anyone trying to turn even the smallest habits into something that sticks.
-
-**Great Whiskey Narrative** — I like whiskey, but a shelf of unfamiliar labels tells you almost nothing: how it tastes, where it came from, whether the price is fair. I wanted those answers before buying the bottle, not after. So I built something that reads the label for you — and keeps a record of what you have already poured.
-
-**TypeLeague** — A typing test usually answers one question: how fast can I type? I wanted it to answer a few more, like how fast my school, my company, my city, and my country are. So I built a place where a single test feeds all of those leaderboards at once, with verified teams and weekly seasons to keep the rankings honest. Solo practice, turned into something social.
-
-**Mise (pseudonym)** — A friend with 10 years in the hospitality industry shared a problem he'd been sitting with for a long time. So we decided to build something about it together.
-
-<br/>
-
-## 🔨 Currently Building
-
-**[GoLightWeight](https://GoLightWeight.io)** · *Offline-First Workout Tracker*
-> Built for intermediate to advanced lifters. PR detection, smart volume calculation, analytics dashboard, Apple Watch companion, and cloud sync — all offline-first. Supports EN/KR. iOS live on the [App Store](https://apps.apple.com/app/id6781628893); Android in closed testing on Google Play.
-
-`React Native` `Expo` `TypeScript` `WatermelonDB` `Supabase` `SwiftUI` `Next.js` `Tailwind CSS`
+`React Native` `Expo` `TypeScript` `WatermelonDB` `Supabase` `RevenueCat` `SwiftUI` `Next.js`
 
 ---
 
-**[SpotTrove](https://spottrove.com)** · *Street Parking + Garage Map*
-> Street parking legality, live street-meter prices, and garage pricing, on one map. Live in NYC on the [App Store](https://apps.apple.com/app/spottrove/id6764669814) — built on 79,650 sign-parsed block faces, 561,642 legality rules, 10,955 metered block faces with posted rates, and 1,837 indexed garages. The map opens without an account; sign-in is asked for at the point of use. Same engine generalizes to every U.S. city with open sign data.
+**[SpotTrove](https://spottrove.com)** · *Street parking + garage map, NYC*
+> I don't drive, but every friend who does complains about reading parking signs. SpotTrove puts the rule on the map instead of the pole: legality by time of day, posted meter rates with what a stay costs, a tap-to-copy ParkNYC code, garage pricing, and a camera sign scanner. Built on 79,650 sign-parsed block faces and 561,642 legality rules across all five boroughs. Works without an account. iOS 1.6 is on the [App Store](https://apps.apple.com/app/spottrove/id6764669814).
 
-`FastAPI` `Supabase` `PostgreSQL` `PostGIS` `React Native` `Expo` `Next.js` `TypeScript`
-
----
-
-**[DoEveryday](https://doeveryday.app)** · *Habit Tracking App (Web + iOS + Browser Extension)*
-> Log and visualise the things you do every day — workouts, reading, journaling, and whatever else matters to you. Year heatmap view, community challenges, web push reminders, Stripe subscriptions, PWA support, and EN/KO localization. iOS app live on the [App Store](https://apps.apple.com/app/id6762887548), with a tap-to-check-in home-screen widget; Android in closed testing on Google Play. Browser extension on [Chrome](https://chromewebstore.google.com/detail/doeveryday-%E2%80%94-build-habits/lfnjhojafagecmadibalpecnfhlobkkp), [Edge](https://microsoftedge.microsoft.com/addons/detail/doeveryday-%E2%80%94-build-habits/gfanlklnofdjgkmgjbjjmhoclekiachh), and [Firefox](https://addons.mozilla.org/firefox/addon/doeveryday-habit-tracker/).
-
-Web: `React 18` `Vite` `Supabase` `Supabase Edge Functions` `Stripe` `Resend` `Vercel`
-Mobile: `React Native` `Expo` `TypeScript` `Zustand` `Supabase` `Expo Router`
+`FastAPI` `PostgreSQL` `PostGIS` `Supabase` `React Native` `Expo` `Mapbox` `Next.js` `Claude API`
 
 ---
 
-**[Great Whiskey Narrative](https://greatwhiskeynarrative.com)** · *Whisky Label Scanner + Library*
-> Point a camera at a label and get the distillery, region, tasting notes, and typical price. A 370-bottle library with food pairings, a Whisky 101 guide, and tasting tracks that turn your shelf into a collection worth filling. Your collection never leaves the browser — no accounts, and moving between devices uses a link that carries the data in the URL fragment. Web live; iOS app in build.
+**[DoEveryday](https://doeveryday.app)** · *Habit tracker: web, iOS, Android, browser extension*
+> I like having a routine and wanted a calm place to log it. One tap a day, a year heatmap, a habit-strength score that survives a missed day, rest days, a monthly report, and home-screen widgets on both phones. iOS on the [App Store](https://apps.apple.com/app/id6762887548), Android on [Google Play](https://play.google.com/store/apps/details?id=app.doeveryday), and a new-tab extension on [Chrome](https://chromewebstore.google.com/detail/doeveryday-%E2%80%94-build-habits/lfnjhojafagecmadibalpecnfhlobkkp), [Edge](https://microsoftedge.microsoft.com/addons/detail/doeveryday-%E2%80%94-build-habits/gfanlklnofdjgkmgjbjjmhoclekiachh), [Firefox](https://addons.mozilla.org/firefox/addon/doeveryday-habit-tracker/), and Safari. English and Korean.
 
-`Astro` `React` `TypeScript` `Expo` `React Native` `Railway` `GitHub Pages`
-
----
-
-**[TypeLeague](https://typeleague.gg)** · *Competitive Typing Leaderboards*
-> One typing test feeds many leaderboards: every result ranks you globally and across your country, city, school, and company. Verified school and company affiliations via email OTP, team scoring built on top verified members, weekly seasons, server-side anti-cheat, and auto-generated share cards for X / LinkedIn / Reddit / Discord. Multi-language practice including Korean (IME-aware).
-
-`Next.js 14` `TypeScript` `Tailwind CSS` `FastAPI` `PostgreSQL` `Redis` `Clerk` `Vercel` `Railway`
+Web: `React 18` `Vite` `Supabase` `Stripe` `Vercel` · Mobile: `React Native` `Expo` `Zustand` `RevenueCat` `WidgetKit`
 
 ---
 
-**[Mise](https://getmise.com)** · *Restaurant P&L Automation*
-> Connects Toast POS + MarginEdge to deliver automated daily P&L reports — so operators can focus on the food, not the spreadsheets. Built with a General Manager at a top NYC restaurant — validated on real Toast + MarginEdge data from a live, high-volume operation.
+**[TypeLeague](https://typeleague.gg)** · *Competitive typing leaderboards*
+> A typing test usually answers one question: how fast am I? I wanted it to also answer how fast my school, my company, my city, and my country are. One test feeds every board at once, with affiliations verified by email OTP, weekly seasons, server-side anti-cheat, a per-key heatmap with weak-key drills, and share cards. Guests see the rank they would hold before signing in. Korean typing is IME-aware.
 
-`Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Next.js` `React` `Tailwind CSS` `Railway`
+`Next.js 14` `TypeScript` `Tailwind CSS` `FastAPI` `PostgreSQL` `Redis` `Clerk`
 
-<br/>
+---
 
-## 🗂️ Other Projects
+**[Needlbar](https://github.com/taejunoh/needlbar)** · *AI coding usage monitor for macOS*
+> A menu-bar monitor for Claude Code, Codex, and Cursor: locally aggregated tokens and estimated cost next to each provider's quota and reset window, plus a home widget. Local-first, with no account, backend, or telemetry. Rust does the session parsing behind a Swift UI. v0.2.2 is signed and notarized for macOS 14+ on Apple Silicon; a system monitor (CPU, memory, disk, network, battery) is next in v0.3. Code is public.
 
-**[ClaudeBeat](https://claudebeat.com)** · *macOS Menu Bar App*
-> Monitor your Claude AI token usage in real-time from the menu bar. Session, weekly, and per-model gauges plus Extra Usage credits, threshold alerts, session reset notifications, and in-app sign-in with the session stored in the macOS Keychain. Verified by Apple — install via Homebrew or just unzip and run.
+`Swift` `SwiftUI` `Rust` `macOS 14+`
+
+---
+
+**[ClaudeBeat](https://claudebeat.com)** · *Claude usage in the menu bar*
+> Session, weekly, and per-model gauges for Claude AI usage, threshold alerts, and reset notifications, with the session kept in the macOS Keychain. v1.1.2, notarized. Install with `brew install --cask taejunoh/tap/claudebeat` or unzip and run. Code is public.
 
 `Swift` `SwiftUI` `AppKit` `macOS 14+`
 
 ---
 
-**[easy-job-application-tracker](https://github.com/taejunoh/easy-job-application-tracker)** · *Job Application Tracker*
-> Self-hosted job application tracker with a Chrome extension. Save jobs from LinkedIn, Indeed, Glassdoor, Lever, Greenhouse, and Workday; compare postings against your resume for matched and missing keywords; fill saved profile URLs into application forms. Optional AI-assisted extraction.
+**[easy-job-application-tracker](https://github.com/taejunoh/easy-job-application-tracker)** · *Self-hosted job tracker + Chrome extension*
+> Save a posting from LinkedIn, Indeed, Glassdoor, Lever, Greenhouse, or Workday in one click, compare it against your resume for matched and missing keywords, and fill your profile links into application forms. AI extraction is optional and bring-your-own-key. Code is public.
 
-`Next.js 16` `React 19` `Prisma` `PostgreSQL` `Tailwind CSS` `Claude / GPT / Gemini (optional)`
-
----
-
-**[Needlbar](https://github.com/taejunoh/needlbar)** · *AI Coding Usage Monitor for macOS*
-> Native menu-bar monitor for Claude Code, Codex, and Cursor — locally aggregated token usage and estimated cost next to provider quota and reset windows. Local-first: no account, no backend, no telemetry. v0.1 builds from source; notarized release on the way.
-
-`Swift` `SwiftUI` `Rust` `macOS 14+` `Apple Silicon`
+`Next.js 16` `React 19` `Prisma 7` `PostgreSQL` `Tailwind CSS`
 
 <br/>
 
-## 🎮 Game
+## 🔨 In progress
+
+**[Great Whiskey Narrative](https://greatwhiskeynarrative.com)** · *Whisky label scanner + library*
+> A shelf of unfamiliar labels tells you nothing about taste, origin, or whether the price is fair. Point the camera at a label and get the distillery, region, tasting notes, and typical price, then keep a record of what you have poured. The 370-bottle library is live on the web with food pairings and a Whisky 101 guide; the iOS app is on TestFlight with an App Attest-gated API and a catalogue that updates over the air. Your collection never leaves the device. Next: growing the library toward 1,500 bottles.
+
+`Astro` `React` `TypeScript` `Expo` `React Native` `Express` `Railway`
+
+<br/>
+
+## 🤫 Under wraps
+
+**Mise** (pseudonym) · *Restaurant P&L automation*
+> A friend with ten years in hospitality had a problem he had been sitting with for a long time, so we built it together: daily P&L from Toast POS and MarginEdge, in a live pilot with a NYC restaurant.
+
+`Python` `FastAPI` `PostgreSQL` `Next.js` `Railway`
+
+---
+
+**CrewOn** (working title) · *Club management platform*
+> Events with RSVP modes and check-in, dues through Stripe Connect, a feed and chat, and a sponsorship marketplace. A web admin and an Expo member app share one tRPC backend.
+
+`Turborepo` `Next.js 15` `tRPC` `Prisma` `Expo` `Stripe Connect`
+
+<br/>
+
+## 🪦 Retired
+
+**[kalshi-arb](https://github.com/taejunoh/kalshi-arb)** · *Automated prediction-market trading, Mar–Sep 2026*
+> 24 strategies, 1,983 real-money trades, 1,278 commits, one EC2 box. Final result −$2,004, of which fees were $1,035. Measured edge against the closing line: +0.30%, confidence interval −0.45% to +1.04%, against a 1.25% break-even. I shut it down because the measurement finally got good enough to say no. The README is about the part worth keeping: how to find out whether a strategy is real.
+
+`Python` `SQLite` `FastAPI` `systemd` `AWS EC2`
+
+<br/>
+
+## 🎮 Also
 
 **[sam6pk-mac](https://github.com/taejunoh/sam6pk-mac)** · *Romance of the Three Kingdoms VI PK on macOS*
-> Runs the Korean release of RTK VI Power-Up Kit on modern Macs — a Wine-based setup that fixes broken Hangul rendering and the mid-battle freeze, with a one-click desktop launcher. Ships the environment only; bring your own game files.
+> Runs the Korean release on modern Macs through Wine, with fixed Hangul rendering and no mid-battle freeze. Ships the environment only; bring your own game files.
 
 `Wine` `Shell` `macOS`
 
@@ -103,11 +104,14 @@ Mobile: `React Native` `Expo` `TypeScript` `Zustand` `Supabase` `Expo Router`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
