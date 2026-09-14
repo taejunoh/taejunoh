@@ -64,21 +64,21 @@ Web: `React 18` `Vite` `Supabase` `Stripe` `Vercel` · Mobile: `React Native` `E
 
 `Astro` `React` `TypeScript` `Expo` `React Native` `Express` `Railway`
 
+---
+
+**[CrewOn](https://getcrewon.com)** · *Club management platform*
+> Running a club means events in one app, members in a spreadsheet, and dues in a chat. CrewOn puts them in one place: events with instant, approval, and lottery RSVP plus QR check-in, dues and online payments through Stripe Connect with automatic reminders, a club feed with polls and chat, a sponsorship marketplace, and a public "find a club" page. The web app for organizers is built; the Expo member app is in TestFlight; public launch is coming soon.
+
+`Turborepo` `Next.js 15` `tRPC` `Prisma` `PostgreSQL` `Expo` `Stripe Connect` `Vercel` `Neon`
+
 <br/>
 
 ## 🤫 Under wraps
 
-**Mise** (pseudonym) · *Restaurant P&L automation*
+**Mise** (pseudonym) · *Restaurant back-office automation*
 > A friend with ten years in hospitality had a problem he had been sitting with for a long time, so we built it together: back-office automation for independent restaurants. Daily P&L, invoices and vendor payments, recipes and menu cost, inventory counts, purchasing, and tax prep, all from live Toast POS data and native invoice ingestion. In a live pilot with a high-volume NYC restaurant.
 
 `Python` `FastAPI` `PostgreSQL` `Next.js 16` `Railway` `Vercel`
-
----
-
-**CrewOn** (working title) · *Club management platform*
-> Events with RSVP modes and check-in, dues through Stripe Connect, a feed and chat, and a sponsorship marketplace. A web admin and an Expo member app share one tRPC backend.
-
-`Turborepo` `Next.js 15` `tRPC` `Prisma` `Expo` `Stripe Connect`
 
 <br/>
 
