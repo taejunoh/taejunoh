@@ -2,14 +2,14 @@
 
 Software engineer in New York. I build things I actually want to exist.
 
-Three iOS apps on the App Store, one of them also on Google Play and in four browser extension stores, two notarized macOS menu-bar apps, and one trading system I shut down on purpose and wrote up.
+Three iOS apps on the App Store, two of them also on Google Play, a browser extension in four stores, two notarized macOS menu-bar apps on Homebrew, and one trading system I shut down on purpose and wrote up.
 
 <br/>
 
 ## 🚀 Shipped
 
 **[GoLightWeight](https://golightweight.app)** · *Offline-first workout tracker*
-> My alarm goes off at 4:20 a.m. and I am at the gym by 5:00. I tried a lot of fitness apps and none of them felt like mine, so I built one for intermediate to advanced lifters: 449 exercises (269 illustrated, 211 animated), 23 programs, PR detection, analytics, an Apple Watch companion, Apple Health, and cloud sync that works offline first. English and Korean. iOS is on the [App Store](https://apps.apple.com/app/id6781628893); Android is in closed testing on Google Play.
+> My alarm goes off at 4:20 a.m. and I am at the gym by 5:00. I tried a lot of fitness apps and none of them felt like mine, so I built one for intermediate to advanced lifters: 449 exercises, every one illustrated and 445 animated, 23 programs, PR detection, analytics, an Apple Watch companion, Apple Health, and cloud sync that works offline first. Version 1.6 added a community feed with posts and in-app notifications. English and Korean. iOS is on the [App Store](https://apps.apple.com/app/id6781628893); Android is on [Google Play](https://play.google.com/store/apps/details?id=com.golightweight.app).
 
 `React Native` `Expo` `TypeScript` `WatermelonDB` `Supabase` `RevenueCat` `SwiftUI` `Next.js`
 
@@ -37,7 +37,7 @@ Web: `React 18` `Vite` `Supabase` `Stripe` `Vercel` · Mobile: `React Native` `E
 ---
 
 **[Needlbar](https://github.com/taejunoh/needlbar)** · *AI coding usage monitor for macOS*
-> A menu-bar monitor for Claude Code, Codex, and Cursor: locally aggregated tokens and estimated cost next to each provider's quota and reset window, plus a home widget. Local-first, with no account, backend, or telemetry. Rust does the session parsing behind a Swift UI. v0.2.2 is signed and notarized for macOS 14+ on Apple Silicon; a system monitor (CPU, memory, disk, network, battery) is next in v0.3. Code is public.
+> A menu-bar monitor for Claude Code, Codex, and Cursor: locally aggregated tokens and estimated cost next to each provider's quota and reset window, a system monitor for CPU, memory, disk, network, and battery in the same popover, and a home widget. Local-first, with no account, backend, or telemetry. Rust does the session parsing behind a Swift UI. v0.3.2 is signed and notarized for macOS 14+ on Apple Silicon; install with `brew install --cask taejunoh/tap/needlbar` or download the zip. Code is public.
 
 `Swift` `SwiftUI` `Rust` `macOS 14+`
 
@@ -60,7 +60,7 @@ Web: `React 18` `Vite` `Supabase` `Stripe` `Vercel` · Mobile: `React Native` `E
 ## 🔨 In progress
 
 **[Great Whiskey Narrative](https://greatwhiskeynarrative.com)** · *Whisky label scanner + library*
-> A shelf of unfamiliar labels tells you nothing about taste, origin, or whether the price is fair. Point the camera at a label and get the distillery, region, tasting notes, and typical price, then keep a record of what you have poured. The 370-bottle library is live on the web with food pairings and a Whisky 101 guide; the iOS app is on TestFlight with an App Attest-gated API and a catalogue that updates over the air. Your collection never leaves the device. Next: growing the library toward 1,500 bottles.
+> A shelf of unfamiliar labels tells you nothing about taste, origin, or whether the price is fair. Point the camera at a label and get the distillery, region, tasting notes, and typical price, then keep a record of what you have poured. The library is live on the web at 688 bottles with food pairings and a Whisky 101 guide, growing through a batch pipeline toward 1,500; bottles the scanner does not know yet go into a request queue. The iOS app is on TestFlight with an App Attest-gated API and a catalogue that updates over the air. Your collection never leaves the device.
 
 `Astro` `React` `TypeScript` `Expo` `React Native` `Express` `Railway`
 
@@ -69,9 +69,9 @@ Web: `React 18` `Vite` `Supabase` `Stripe` `Vercel` · Mobile: `React Native` `E
 ## 🤫 Under wraps
 
 **Mise** (pseudonym) · *Restaurant P&L automation*
-> A friend with ten years in hospitality had a problem he had been sitting with for a long time, so we built it together: daily P&L from Toast POS and MarginEdge, in a live pilot with a NYC restaurant.
+> A friend with ten years in hospitality had a problem he had been sitting with for a long time, so we built it together: back-office automation for independent restaurants. Daily P&L, invoices and vendor payments, recipes and menu cost, inventory counts, purchasing, and tax prep, all from live Toast POS data and native invoice ingestion. In a live pilot with a high-volume NYC restaurant.
 
-`Python` `FastAPI` `PostgreSQL` `Next.js` `Railway`
+`Python` `FastAPI` `PostgreSQL` `Next.js 16` `Railway` `Vercel`
 
 ---
 
