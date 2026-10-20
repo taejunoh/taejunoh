@@ -9,35 +9,35 @@ Three iOS apps on the App Store, two of them also on Google Play, a browser exte
 ## 🚀 Shipped
 
 **[GoLightWeight](https://golightweight.app)** · *Offline-first workout tracker*
-> My alarm goes off at 4:20 a.m. and I am at the gym by 5:00. I tried a lot of fitness apps and none of them felt like mine, so I built one for intermediate to advanced lifters: 449 exercises, every one illustrated and 445 animated, 23 programs, PR detection, analytics, an Apple Watch companion, Apple Health, and cloud sync that works offline first. Version 1.6 added a community feed with posts and in-app notifications. English and Korean. iOS is on the [App Store](https://apps.apple.com/app/id6781628893); Android is on [Google Play](https://play.google.com/store/apps/details?id=com.golightweight.app).
+> My alarm goes off at 4:20 a.m. and I am at the gym by 5:00. I tried a lot of fitness apps and none of them felt like mine, so I built one for intermediate to advanced lifters: 449 exercises, every one illustrated and 445 animated, 23 programs, PR detection, analytics, an Apple Watch companion, Apple Health, and cloud sync that works offline first. Recent releases added a community feed, heart rate on the wrist, and editing a saved workout without breaking records. English and Korean. iOS is on the [App Store](https://apps.apple.com/app/id6781628893); Android is on [Google Play](https://play.google.com/store/apps/details?id=com.golightweight.app).
 
 `React Native` `Expo` `TypeScript` `WatermelonDB` `Supabase` `RevenueCat` `SwiftUI` `Next.js`
 
 ---
 
 **[SpotTrove](https://spottrove.com)** · *Street parking + garage map, NYC*
-> I don't drive, but every friend who does complains about reading parking signs. SpotTrove puts the rule on the map instead of the pole: legality by time of day, posted meter rates with what a stay costs, a tap-to-copy ParkNYC code, garage pricing, and a camera sign scanner. Built on 79,650 sign-parsed block faces and 561,642 legality rules across all five boroughs. Works without an account. iOS 1.6 is on the [App Store](https://apps.apple.com/app/spottrove/id6764669814).
+> I don't drive, but every friend who does complains about reading parking signs. SpotTrove puts the rule on the map instead of the pole: legality by time of day, posted meter rates with what a stay costs, a tap-to-copy ParkNYC code, garage pricing, and a camera sign scanner. Built on 79,650 sign-parsed block faces and 561,642 legality rules across all five boroughs. Works without an account. iOS 1.7 is on the [App Store](https://apps.apple.com/app/spottrove/id6764669814).
 
 `FastAPI` `PostgreSQL` `PostGIS` `Supabase` `React Native` `Expo` `Mapbox` `Next.js` `Claude API`
 
 ---
 
 **[DoEveryday](https://doeveryday.app)** · *Habit tracker: web, iOS, Android, browser extension*
-> I like having a routine and wanted a calm place to log it. One tap a day, a year heatmap, a habit-strength score that survives a missed day, rest days, a monthly report, and home-screen widgets on both phones. iOS on the [App Store](https://apps.apple.com/app/id6762887548), Android on [Google Play](https://play.google.com/store/apps/details?id=app.doeveryday), and a new-tab extension on [Chrome](https://chromewebstore.google.com/detail/doeveryday-%E2%80%94-build-habits/lfnjhojafagecmadibalpecnfhlobkkp), [Edge](https://microsoftedge.microsoft.com/addons/detail/doeveryday-%E2%80%94-build-habits/gfanlklnofdjgkmgjbjjmhoclekiachh), [Firefox](https://addons.mozilla.org/firefox/addon/doeveryday-habit-tracker/), and Safari. English and Korean.
+> I like having a routine and wanted a calm place to log it. One tap a day, a year heatmap, a habit-strength score that survives a missed day, rest days, a monthly report, and home-screen widgets on both phones. A "don't miss twice" push nudges you before a streak breaks. iOS on the [App Store](https://apps.apple.com/app/id6762887548), Android on [Google Play](https://play.google.com/store/apps/details?id=app.doeveryday), and a new-tab extension on [Chrome](https://chromewebstore.google.com/detail/doeveryday-%E2%80%94-build-habits/lfnjhojafagecmadibalpecnfhlobkkp), [Edge](https://microsoftedge.microsoft.com/addons/detail/doeveryday-%E2%80%94-build-habits/gfanlklnofdjgkmgjbjjmhoclekiachh), [Firefox](https://addons.mozilla.org/firefox/addon/doeveryday-habit-tracker/), and Safari. English and Korean.
 
 Web: `React 18` `Vite` `Supabase` `Stripe` `Vercel` · Mobile: `React Native` `Expo` `Zustand` `RevenueCat` `WidgetKit`
 
 ---
 
 **[TypeLeague](https://typeleague.gg)** · *Competitive typing leaderboards*
-> A typing test usually answers one question: how fast am I? I wanted it to also answer how fast my school, my company, my city, and my country are. One test feeds every board at once, with affiliations verified by email OTP, weekly seasons, server-side anti-cheat, a per-key heatmap with weak-key drills, and share cards. Guests see the rank they would hold before signing in. Korean typing is IME-aware.
+> A typing test usually answers one question: how fast am I? I wanted it to also answer how fast my school, my company, my city, and my country are. One test feeds every board at once, with affiliations verified by email OTP, weekly seasons that start at launch (it is in preseason now), server-side anti-cheat, a per-key heatmap with weak-key drills, and share cards. Guests see the rank they would hold before signing in. Korean typing is IME-aware.
 
 `Next.js 14` `TypeScript` `Tailwind CSS` `FastAPI` `PostgreSQL` `Redis` `Clerk`
 
 ---
 
 **[Needlbar](https://github.com/taejunoh/needlbar)** · *AI coding usage monitor for macOS*
-> A menu-bar monitor for Claude Code, Codex, and Cursor: locally aggregated tokens and estimated cost next to each provider's quota and reset window, a system monitor for CPU, memory, disk, network, and battery in the same popover, and a home widget. Local-first, with no account, backend, or telemetry. Rust does the session parsing behind a Swift UI. v0.3.2 is signed and notarized for macOS 14+ on Apple Silicon; install with `brew install --cask taejunoh/tap/needlbar` or download the zip. Code is public.
+> A menu-bar monitor for Claude Code, Codex, and Cursor: locally aggregated tokens and estimated cost next to each provider's quota and reset window, a system monitor for CPU, memory, disk, network, and battery in the same popover, and a home widget. Local-first, with no account, backend, or telemetry. Rust does the session parsing behind a Swift UI. v0.3.9 is signed and notarized for macOS 14+ on Apple Silicon; install with `brew install --cask taejunoh/tap/needlbar` or download the zip. Code is public.
 
 `Swift` `SwiftUI` `Rust` `macOS 14+`
 
@@ -60,7 +60,7 @@ Web: `React 18` `Vite` `Supabase` `Stripe` `Vercel` · Mobile: `React Native` `E
 ## 🔨 In progress
 
 **[Great Whiskey Narrative](https://greatwhiskeynarrative.com)** · *Whisky label scanner + library*
-> A shelf of unfamiliar labels tells you nothing about taste, origin, or whether the price is fair. Point the camera at a label and get the distillery, region, tasting notes, and typical price, then keep a record of what you have poured. The library is live on the web at 688 bottles with food pairings and a Whisky 101 guide, growing through a batch pipeline toward 1,500; bottles the scanner does not know yet go into a request queue. The iOS app is on TestFlight with an App Attest-gated API and a catalogue that updates over the air. Your collection never leaves the device.
+> A shelf of unfamiliar labels tells you nothing about taste, origin, or whether the price is fair. Point the camera at a label and get the distillery, region, tasting notes, and typical price, then keep a record of what you have poured. The library is live on the web at 1,078 bottles, every one illustrated, with food pairings and a Whisky 101 guide; bottles the scanner does not know yet go into a request queue. The iOS app is on TestFlight with Sign in with Apple, collection backup, a Journey tab of badges and ranks, an App Attest-gated API, and a catalogue that updates over the air.
 
 `Astro` `React` `TypeScript` `Expo` `React Native` `Express` `Railway`
 
@@ -70,6 +70,20 @@ Web: `React 18` `Vite` `Supabase` `Stripe` `Vercel` · Mobile: `React Native` `E
 > Running a club means events in one app, members in a spreadsheet, and dues in a chat. CrewOn puts them in one place: events with instant, approval, and lottery RSVP plus QR check-in, dues and online payments through Stripe Connect with automatic reminders, a club feed with polls and chat, a sponsorship marketplace, and a public "find a club" page. The web app for organizers is built; the Expo member app is in TestFlight; public launch is coming soon.
 
 `Turborepo` `Next.js 15` `tRPC` `Prisma` `PostgreSQL` `Expo` `Stripe Connect` `Vercel` `Neon`
+
+---
+
+**[Seoul Rising](https://taejunoh.com/seoulpulse/)** · *K-pop trends widget for iOS*
+> K-pop news reaches US fans after Korea has already moved on. Seoul Rising watches YouTube channels, Wikipedia pageviews, and Korean entertainment headlines, scores artist momentum, and flags when Korea moves before English-language coverage. A keyless Python pipeline writes one static file every 30 minutes; the iOS app and widget read it, with no server, accounts, or API keys. v1.0 is in App Review. [Code](https://github.com/taejunoh/seoulpulse) is public.
+
+`Python` `GitHub Actions` `SwiftUI` `WidgetKit` `iOS 18`
+
+---
+
+**[AllinSimple Pulse](https://pulse.allinsimple.com)** · *Uptime and heartbeat monitoring*
+> Checks websites, APIs, cron jobs, and workers, confirms an outage with retries before opening one incident, and sends Down and recovery alerts to Email, Telegram, Discord, and Slack. In a private pilot. Its sibling, [AllinSimple Desk](https://desk.allinsimple.com/?lang=en), is a ledger for the links, recurring costs, and renewal dates of many projects, with a public demo.
+
+`Next.js 16` `React 19` `Drizzle` `PostgreSQL` `Tailwind CSS`
 
 <br/>
 
