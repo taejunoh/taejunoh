@@ -85,6 +85,13 @@ Web: `React 18` `Vite` `Supabase` `Stripe` `Vercel` · Mobile: `React Native` `E
 
 `Next.js 16` `React 19` `Drizzle` `PostgreSQL` `Tailwind CSS`
 
+---
+
+**[Security Scan Hub](https://github.com/taejunoh/security-scan-hub)** · *Seven security tools, one scan*
+> Running Google OSV Scanner, NVIDIA SkillSpector, OpenAI Codex Security, Alibaba Open Code Review, OpenAI's PHP2Shell checker, Cloudflare's audit skill, and Anthropic's vuln-scan harness means seven setups and seven report formats. Security Scan Hub runs the ones you pick in a single scan and merges the findings into one Security Inbox, showing which tools completed, were skipped, or failed, with HTML, JSON, and SARIF output. AI tools run only with explicit opt-in. The desktop app is a 0.2.2 prerelease, signed and notarized for Apple silicon Macs, with a Windows x64 build. Code is public.
+
+`Node.js` `Electron` `SARIF` `CLI`
+
 <br/>
 
 ## 🤫 Under wraps
