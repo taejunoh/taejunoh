@@ -16,7 +16,7 @@ I build apps for iOS, Android, macOS, and the web, and write about what I learn 
 ---
 
 **[SpotTrove](https://spottrove.com)** · *Street parking + garage map, NYC*
-> I don't drive, but every friend who does complains about reading parking signs. SpotTrove puts the rule on the map instead of the pole: legality by time of day, posted meter rates with what a stay costs, a tap-to-copy ParkNYC code, garage pricing, and a camera sign scanner. Built on 79,650 sign-parsed block faces and 561,642 legality rules across all five boroughs. Works without an account. iOS 1.7 is on the [App Store](https://apps.apple.com/app/spottrove/id6764669814).
+> I don't drive, but every friend who does complains about reading parking signs. SpotTrove puts the rule on the map instead of the pole: legality by time of day, posted meter rates with what a stay costs, a tap-to-copy ParkNYC code, garage pricing, and a camera sign scanner. Built on 79,650 sign-parsed block faces and 561,642 legality rules across all five boroughs. Works without an account. Available on iOS through the [App Store](https://apps.apple.com/app/spottrove/id6764669814) and Android through [Google Play](https://play.google.com/store/apps/details?id=com.spottrove.app).
 
 `FastAPI` `PostgreSQL` `PostGIS` `Supabase` `React Native` `Expo` `Mapbox` `Next.js` `Claude API`
 
