@@ -43,6 +43,13 @@ Web: `React 18` `Vite` `Supabase` `Stripe` `Vercel` · Mobile: `React Native` `E
 
 ---
 
+**[TypeLeague](https://typeleague.gg)** · *Competitive typing leaderboards*
+> A typing test usually answers one question: how fast am I? I wanted it to also answer how fast my school, my company, my city, and my country are. One test feeds every board at once, with affiliations verified by email OTP, weekly season support (the public web app is currently in preseason), server-side anti-cheat, a per-key heatmap with weak-key drills, and share cards. Guests see the rank they would hold before signing in. Korean typing is IME-aware.
+
+`Next.js 14` `TypeScript` `Tailwind CSS` `FastAPI` `PostgreSQL` `Redis` `Clerk`
+
+---
+
 **[Needlbar](https://github.com/taejunoh/needlbar)** · *AI coding usage monitor for macOS*
 > A menu-bar monitor for Claude Code, Codex, and Cursor: locally aggregated tokens and estimated cost next to each provider's quota and reset window, a system monitor for CPU, memory, disk, network, and battery in the same popover, and a home widget. Local-first, with no account, backend, or telemetry. Rust does the session parsing behind a Swift UI. v0.3.9 is signed and notarized for macOS 14+ on Apple Silicon; install with `brew install --cask taejunoh/tap/needlbar` or download the zip. Code is public.
 
@@ -96,13 +103,6 @@ Web: `React 18` `Vite` `Supabase` `Stripe` `Vercel` · Mobile: `React Native` `E
 > Running Google OSV Scanner, NVIDIA SkillSpector, OpenAI Codex Security, Alibaba Open Code Review, OpenAI's PHP2Shell checker, Cloudflare's audit skill, and Anthropic's vuln-scan harness means seven setups and seven report formats. Security Scan Hub runs the ones you pick in a single scan and merges the findings into one Security Inbox, showing which tools completed, were skipped, or failed, with HTML, JSON, and SARIF output. AI tools run only with explicit opt-in. The desktop app is a 0.2.2 prerelease, signed and notarized for Apple silicon Macs, with a Windows x64 build. Code is public.
 
 `Node.js` `Electron` `SARIF` `CLI`
-
----
-
-**[TypeLeague](https://typeleague.gg)** · *Competitive typing leaderboards*
-> A typing test usually answers one question: how fast am I? I wanted it to also answer how fast my school, my company, my city, and my country are. One test feeds every board at once, with affiliations verified by email OTP, weekly seasons that start at launch (it is in preseason now), server-side anti-cheat, a per-key heatmap with weak-key drills, and share cards. Guests see the rank they would hold before signing in. Korean typing is IME-aware.
-
-`Next.js 14` `TypeScript` `Tailwind CSS` `FastAPI` `PostgreSQL` `Redis` `Clerk`
 
 ---
 
