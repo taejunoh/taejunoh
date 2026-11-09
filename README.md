@@ -71,61 +71,9 @@ Web: `React 18` `Vite` `Supabase` `Stripe` `Vercel` · Mobile: `React Native` `E
 
 <br/>
 
-## 🔨 In Development
-
-**[CrewOn](https://getcrewon.com)** · *Club management platform*
-> Running a club means events in one app, members in a spreadsheet, and dues in a chat. CrewOn puts them in one place: events with instant, approval, and lottery RSVP plus QR check-in, dues and online payments through Stripe Connect with automatic reminders, a club feed with polls and chat, a sponsorship marketplace, and a public "find a club" page. The web app for organizers is built; the Expo member app is in TestFlight; public launch is coming soon.
-
-`Turborepo` `Next.js 15` `tRPC` `Prisma` `PostgreSQL` `Expo` `Stripe Connect` `Vercel` `Neon`
-
----
-
-**[AllinSimple Pulse](https://pulse.allinsimple.com)** · *Uptime and heartbeat monitoring*
-> Checks websites, APIs, cron jobs, and workers, confirms an outage with retries before opening one incident, and sends Down and recovery alerts to Email, Telegram, Discord, and Slack. In a private pilot. Its sibling, [AllinSimple Desk](https://desk.allinsimple.com/?lang=en), is a ledger for the links, recurring costs, and renewal dates of many projects, with a public demo.
-
-`Next.js 16` `React 19` `Drizzle` `PostgreSQL` `Tailwind CSS`
-
----
-
-**[AllinSimple Check](https://taejunoh.com/projects/allinsimple-check.html)** · *Local browser flow prototype*
-> Manually checks a fixed flow against its bundled demo site by signing in, submitting a sample, and checking the result text. Includes success, mismatch, and delay modes, with local run history.
-
----
-
-**[AllinSimple Desk](https://desk.allinsimple.com/?lang=en)** · *Personal operations ledger*
-> Keeps project links, recurring costs, renewal dates, and maintenance tasks together. The local MVP stores its ledger in SQLite and supports JSON backup and restore. The public read-only demo uses fictional data.
-
-`React 19` `Vite` `SQLite`
-
----
-
-**[Security Scan Hub](https://github.com/taejunoh/security-scan-hub)** · *Seven security tools, one scan*
-> Running Google OSV Scanner, NVIDIA SkillSpector, OpenAI Codex Security, Alibaba Open Code Review, OpenAI's PHP2Shell checker, Cloudflare's audit skill, and Anthropic's vuln-scan harness means seven setups and seven report formats. Security Scan Hub runs the ones you pick in a single scan and merges the findings into one Security Inbox, showing which tools completed, were skipped, or failed, with HTML, JSON, and SARIF output. AI tools run only with explicit opt-in. The desktop app is a 0.2.2 prerelease, signed and notarized for Apple silicon Macs, with a Windows x64 build. Code is public.
-
-`Node.js` `Electron` `SARIF` `CLI`
-
----
-
-**[Mise](https://taejunoh.com/projects/mise.html)** · *Restaurant back-office automation*
-> Back-office automation for independent restaurants, covering daily P&L, invoices and payments, recipes and menu cost, inventory, purchasing, and tax prep. Active pilot using live POS and invoice data.
-
-`Python` `FastAPI` `PostgreSQL` `Next.js`
-
-<br/>
-
 ## 🤫 Under Wraps
 
-**Name under wraps** · *iOS day-out planner*
-> Plan a day out with a tab for each stop, compare routes on one map, and follow live subway guidance.
-
-`iOS`
-
----
-
-**Name under wraps** · *Offline prayer companion*
-> A quiet, offline prayer companion. Content and naming are still in review.
-
-`iOS`
+Projects in development remain private until launch.
 
 <br/>
 
