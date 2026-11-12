@@ -50,6 +50,13 @@ Web: `React 18` `Vite` `Supabase` `Stripe` `Vercel` · Mobile: `React Native` `E
 
 ---
 
+**[Security Scan Hub](https://github.com/taejunoh/security-scan-hub)** · *Seven security tools, one scan*
+> Running Google OSV Scanner, NVIDIA SkillSpector, OpenAI Codex Security, Alibaba Open Code Review, OpenAI's PHP2Shell checker, Cloudflare's audit skill, and Anthropic's vuln-scan harness means seven setups and seven report formats. Security Scan Hub runs the ones you pick in a single scan and merges the findings into one Security Inbox, showing which tools completed, were skipped, or failed, with HTML, JSON, and SARIF output. AI tools run only with explicit opt-in. The desktop prerelease is signed and notarized for Apple silicon and Intel Macs (also available through `brew install --cask taejunoh/tap/security-scan-hub`), and available for Windows through the Microsoft Store or an unsigned portable build. The Cloudflare and Anthropic workflows are unavailable on Windows. Code is public.
+
+`Node.js` `Electron` `SARIF` `CLI`
+
+---
+
 **[Needlbar](https://github.com/taejunoh/needlbar)** · *AI coding usage monitor for macOS*
 > A menu-bar monitor for Claude Code, Codex, and Cursor: locally aggregated tokens and estimated cost next to each provider's quota and reset window, a system monitor for CPU, memory, disk, network, and battery in the same popover, and a home widget. Local-first, with no account, backend, or telemetry. Rust does the session parsing behind a Swift UI. v0.3.9 is signed and notarized for macOS 14+ on Apple Silicon; install with `brew install --cask taejunoh/tap/needlbar` or download the zip. Code is public.
 
@@ -96,13 +103,6 @@ Web: `React 18` `Vite` `Supabase` `Stripe` `Vercel` · Mobile: `React Native` `E
 > Keeps project links, recurring costs, renewal dates, and maintenance tasks together. The local MVP stores its ledger in SQLite and supports JSON backup and restore. The public read-only demo uses fictional data.
 
 `React 19` `Vite` `SQLite`
-
----
-
-**[Security Scan Hub](https://github.com/taejunoh/security-scan-hub)** · *Seven security tools, one scan*
-> Running Google OSV Scanner, NVIDIA SkillSpector, OpenAI Codex Security, Alibaba Open Code Review, OpenAI's PHP2Shell checker, Cloudflare's audit skill, and Anthropic's vuln-scan harness means seven setups and seven report formats. Security Scan Hub runs the ones you pick in a single scan and merges the findings into one Security Inbox, showing which tools completed, were skipped, or failed, with HTML, JSON, and SARIF output. AI tools run only with explicit opt-in. The desktop app is a 0.2.2 prerelease, signed and notarized for Apple silicon Macs, with a Windows x64 build. Code is public.
-
-`Node.js` `Electron` `SARIF` `CLI`
 
 ---
 
